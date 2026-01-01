@@ -1,3 +1,5 @@
+//  JSON---> JavaScript Object Notation
+
 const person = {
   name: "sohag",
   age: 20,
