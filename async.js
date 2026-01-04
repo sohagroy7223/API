@@ -17,14 +17,14 @@
 // handleUser2();
 
 // if we find the error in catch*************
-const handleUser3 = async () => {
-  try {
-    const response = await fetch("https://jsonplaceholder.typicode.com/users");
-    const data = await response.json();
-    console.log(data);
-  } catch {
-    console.log("error aca");
-  }
-};
+// const handleUser3 = async () => {
+//   try {
+//     const response = await fetch("https://jsonplaceholder.typicode.com/users");
+//     const data = await response.json();
+//     console.log(data);
+//   } catch {
+//     console.log("error aca");
+//   }
+// };
 
-handleUser3();
+// handleUser3();
