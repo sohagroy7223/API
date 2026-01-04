@@ -20,9 +20,9 @@ const person5 = () => {
 const person6 = () => {
   console.log("jalmuri is ready 6");
 };
-person1();
-person2();
-person3();
-person4();
-person5();
-person6();
+// person1();
+// person2();
+// person3();
+// person4();
+// person5();
+// person6();
