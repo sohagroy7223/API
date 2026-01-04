@@ -8,6 +8,7 @@ const loadData = () => {
     // .then(function (data) {
     //   console.log(data);
     // });
+
     // if any error in this function it is show in catch**
     .catch((error) => console.log(error));
 };
